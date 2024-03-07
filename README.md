@@ -1,1 +1,2 @@
-I made a knn algorithm without using machine learning libraries.
+data set:
+iris.csv : https://www.kaggle.com/datasets/saidaantonyan/iris-classifier-with-knn
